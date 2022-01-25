@@ -1,4 +1,4 @@
-#8 düşmanın bulunduğu tunuvada kazananı belirleyen program
+#8 düşmanın bulunduğu turnuvada kazananı belirleyen program
 
 import random
 
